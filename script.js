@@ -1,5 +1,5 @@
 /* Onclick Response */
 
 document.getElementById("DirectMeta").onclick = function() {
-    window.location.href = "https://samrock294.github.io/MetaLib/";
+    window.location.href = "https://sakaethram.github.io/MetaLib/";
   };
