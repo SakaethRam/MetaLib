@@ -3,3 +3,5 @@ Arkin MetaLib is a comprehensive digital library dedicated to in-depth technolog
 ![README_HOME](https://github.com/user-attachments/assets/b8e7adb5-88b5-4a1f-94ef-34bc536a1074)
 
 ![README_DESCRIPTION](https://github.com/user-attachments/assets/1a6f35f1-e11e-49ef-8f9d-cd4405570292)
+
+![README_MetaLib](https://github.com/user-attachments/assets/60ea8c66-d4ff-4d54-8c4f-ac1cff9d4a46)
