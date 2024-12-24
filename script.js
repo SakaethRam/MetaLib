@@ -58,12 +58,12 @@ thumbnails.forEach((thumbnail, index) =>{
 
 document.getElementById('Recon').addEventListener('click', function() {
   // Specify the URL of the PDF file
-  const pdfUrl = 'assets/Task 2.pdf';
+  const pdfUrl = 'asset/Task 2.pdf';
 
   // Create an invisible anchor element
   const link = document.createElement('a');
   link.href = pdfUrl;
-  link.download = 'assets/Task 1.pdf';  // File name for the download
+  link.download = 'asset/Task 2.pdf';  // File name for the download
 
   // Programmatically trigger the download by clicking the anchor element
   document.body.appendChild(link);
@@ -77,12 +77,12 @@ document.getElementById('Recon').addEventListener('click', function() {
 
 document.getElementById('BruteF').addEventListener('click', function() {
   // Specify the URL of the PDF file
-  const pdfUrl = 'assets/Task 5.pdf';
+  const pdfUrl = 'asset/Task 5.pdf';
 
   // Create an invisible anchor element
   const link = document.createElement('a');
   link.href = pdfUrl;
-  link.download = 'assets/Task 3.pdf';  // File name for the download
+  link.download = 'asset/Task 5.pdf';  // File name for the download
 
   // Programmatically trigger the download by clicking the anchor element
   document.body.appendChild(link);
@@ -96,12 +96,12 @@ document.getElementById('BruteF').addEventListener('click', function() {
 
 document.getElementById('SubD').addEventListener('click', function() {
   // Specify the URL of the PDF file
-  const pdfUrl = 'assets/Task 4.pdf';
+  const pdfUrl = 'asset/Task 4.pdf';
 
   // Create an invisible anchor element
   const link = document.createElement('a');
   link.href = pdfUrl;
-  link.download = 'assets/Task 1.pdf';  // File name for the download
+  link.download = 'asset/Task 4.pdf';  // File name for the download
 
   // Programmatically trigger the download by clicking the anchor element
   document.body.appendChild(link);
@@ -115,12 +115,12 @@ document.getElementById('SubD').addEventListener('click', function() {
 
 document.getElementById('ClickJ').addEventListener('click', function() {
   // Specify the URL of the PDF file
-  const pdfUrl = 'assets/Task 1.pdf';
+  const pdfUrl = 'asset/Task 1.pdf';
 
   // Create an invisible anchor element
   const link = document.createElement('a');
   link.href = pdfUrl;
-  link.download = 'assets/Task 1.pdf';  // File name for the download
+  link.download = 'asset/Task 1.pdf';  // File name for the download
 
   // Programmatically trigger the download by clicking the anchor element
   document.body.appendChild(link);
