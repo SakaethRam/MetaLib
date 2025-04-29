@@ -144,3 +144,12 @@ The application will be accessible at `http://localhost:3000`.
 
 > [ZREX MetaLib](https://zrex.netlify.app)
 
+---
+
+## License
+
+MIT License
+
+---
+
+Built by `S A M` – Bringing emotion and intelligence to text.
