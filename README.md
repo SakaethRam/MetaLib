@@ -55,7 +55,7 @@ MetaLib GPT is an interactive AI chat assistant powered by the Gemini API, built
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MetaLib-GPT.git
+   git clone "https://github.com/SakaethRam/MetaLib.git"
    cd MetaLib-GPT
    ```
 
@@ -145,5 +145,4 @@ The application will be accessible at `http://localhost:3000`.
 ## Powered By
 
 > [ZREX MetaLib](https://zrex.netlify.app)
-> [React.js](https://reactjs.org/)
-> [Gemini API](https://ai.google.dev/)
+
